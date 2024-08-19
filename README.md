@@ -1,5 +1,7 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ta2hwan&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ta2hwan&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ta2hwan&layout=compact&theme=tokyonight)
+
 <hr>
 
 [![코드트리|실력진단-tthwan](https://banner.codetree.ai/v1/banner/tthwan)](https://www.codetree.ai/profiles/tthwan)
