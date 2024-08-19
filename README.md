@@ -1,7 +1,8 @@
 ## Hi there 👋
 [![코드트리|실력진단-tthwan](https://banner.codetree.ai/v1/banner/tthwan)](https://www.codetree.ai/profiles/tthwan)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={t-t-hwan}&theme=dark)
-<img src="http://mazandi.herokuapp.com/api?handle={t-t-hwan}&theme=dark"/>
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={t_t_hwan}&theme=dark)
+<img src="http://mazandi.herokuapp.com/api?handle={t_t_hwan}&theme=dark"/>
 <!--
 **t-t-hwan/t-t-hwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
