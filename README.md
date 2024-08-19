@@ -4,8 +4,8 @@
 
 <hr>
 <div align="center">
-[![코드트리|실력진단-tthwan](https://banner.codetree.ai/v1/banner/tthwan)](https://www.codetree.ai/profiles/tthwan)
-</div>
+[![코드트리|실력진단-tthwan](https://banner.codetree.ai/v1/banner/tthwan)](https://www.codetree.ai/profiles/tthwan)</div>
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ta2hwan)](https://solved.ac/ta2hwan/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ta2hwan&theme=dark)
