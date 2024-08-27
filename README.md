@@ -14,7 +14,7 @@
   
 
   
-  [![코드트리|실력진단-tthwan](https://banner.codetree.ai/v1/banner/tthwan)](https://www.codetree.ai/profiles/tthwan)
+  [![코드트리|실력진단-ta2hwan](https://banner.codetree.ai/v1/banner/ta2hwan)](https://www.codetree.ai/profiles/ta2hwan)
 
   <hr>
 
